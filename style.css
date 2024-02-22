@@ -55,11 +55,11 @@ body * {
   margin-top: 8px;
 }
 /*switch*/
-#switch{
+#switch {
   position: relative;
   width: 64px;
   height: 24px;
-  
+
   margin: 4px auto;
 }
 #switch button {
@@ -88,7 +88,6 @@ body * {
   backdrop-filter: blur(4px);
   border-radius: 9999px;
 }
-
 
 /*Links*/
 ul {
